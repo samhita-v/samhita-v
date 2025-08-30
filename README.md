@@ -3,7 +3,7 @@
 <img align="right" width="300" height="200" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Coding Gif">
 
 🎓 Pre-final Year B.Tech - Computer Science & Engineering (ICB)  
-👩‍💻 Tech Student | Learning Java, Python, HTML, CSS  
+👩‍💻 Tech Student | Learning Java, Web Dev  
 🧑‍💻 Currently building: **Online No Due Management System**
 
 ---
@@ -11,7 +11,7 @@
 ## 🌟 About Me
 
 I am a Computer Science student interested in web development, programming, and technology.  
-Currently learning Java, Python, HTML, and CSS.  
+Currently learning Java, Python, Web Dev.  
 Always eager to collaborate on student projects and web apps!
 
 ---
