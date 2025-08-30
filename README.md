@@ -1,9 +1,6 @@
 # 👋 Hi, I'm Samhita V
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&color=1E90FF&width=435&lines=Welcome+to+my+GitHub!;B.Tech+CSE+(ICB)+Pre-final+Year+Student" alt="Typing SVG" />
-</h1>
-<img align="right" width="300" height="200" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
+<img align="right" width="300" height="200" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Coding Gif">
 
 🎓 Pre-final Year B.Tech - Computer Science & Engineering (ICB)  
 👩‍💻 Tech Student | Learning Java, Python, HTML, CSS  
@@ -11,17 +8,11 @@
 
 ---
 
-- 📚 Always learning new technologies and programming languages  
-- 🤝 Interested in collaborating on student projects and web apps  
-- 💻 Exploring Java, Python, HTML, CSS  
-- 🌟 Open to connecting and sharing knowledge
+## 🌟 About Me
 
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-samhita-v-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samhita-v-a1b425293)  
-[![Email](https://img.shields.io/badge/Gmail-samhita342@gmail.com-red?logo=gmail&logoColor=white)](mailto:samhita342@gmail.com)
+I am a Computer Science student interested in web development, programming, and technology.  
+Currently learning Java, Python, HTML, and CSS.  
+Always eager to collaborate on student projects and web apps!
 
 ---
 
@@ -34,17 +25,19 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My Custom GitHub Highlights
 
-![Samhita's GitHub stats](https://github-readme-stats.vercel.app/api?username=samhita-v&show_icons=true&theme=tokyonight&hide_border=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samhita-v&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samhita-v&layout=compact&theme=tokyonight)
+- **Main Languages:** Java, Python, HTML, CSS
+- **Top Project:** Online No Due Management System
+- **Collaborations:** 3 student projects, 1 open-source contribution
+- **Hackathons Attended:** 1 (and counting!)
 
 ---
 
-## 💬 About Me
+## 🌐 Connect With Me
 
-> I am a Computer Science student interested in web development, programming, and technology. Currently learning Java, Python, HTML, and CSS.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-samhita-v-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samhita-v-a1b425293)  
+[![Email](https://img.shields.io/badge/Gmail-samhita342@gmail.com-red?logo=gmail&logoColor=white)](mailto:samhita342@gmail.com)
 
 ---
 
